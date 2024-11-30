@@ -16,9 +16,9 @@ from dotenv import load_dotenv
 load_dotenv()
 
 #key setup
-genai.configure(api_key="AIzaSyABOezVFlDxEsCOPKqXhOWiBkwWri80b4c")
+genai.configure(api_key="paste your key here")
 
-pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe" #replace your path here#
 
 #page title
 st.set_page_config(
