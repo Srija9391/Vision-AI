@@ -30,3 +30,5 @@ Includes tabs for different functionalities: Scene Analysis, Object Detection, A
 **Text Extraction:** Leverages Tesseract OCR for extracting text from images.
 
 **Generative AI Integration:** Uses Google Generative AI to provide detailed image descriptions and personalized assistance.
+
+Here is the video of the application  "C:\Users\91939\Downloads\Untitled video - Made with Clipchamp (1).mp4"
