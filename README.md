@@ -31,4 +31,4 @@ Includes tabs for different functionalities: Scene Analysis, Object Detection, A
 
 **Generative AI Integration:** Uses Google Generative AI to provide detailed image descriptions and personalized assistance.
 
-Here is the video of the application  "C:\Users\91939\Downloads\Untitled video - Made with Clipchamp (1).mp4"
+**Here is the video of the application you can checkout how it works  :**  https://drive.google.com/file/d/1L4M_hi8AuxISYIrdOFt99USkCQyQ0loj/view?usp=sharing
